@@ -40,66 +40,6 @@ var tagFour = {
 	info: "<img src='assets/images/halloween.jpg'>"
 };
 
-var tagFive = {
-	question: "When there&#8217s no more room in hell, the dead will walk the earth.",
-	choice1: "Night of the Living Dead",
-	choice2: "28 Days Later",
-	choice3: "World War Z",
-	choice4: "Dawn of the Dead",
-	answer: "Dawn of the Dead",
-	info: "<img src='assets/images/dawnofthedead.jpg'>"
-};
-
-var tagSix = {
-	question: "Herbet West has a good head on his shoulders... and another one on his desk.",
-	choice1: "The Thing",
-	choice2: "From Beyond",
-	choice3: "Scanners",
-	choice4: "Re-Animator",
-	answer: "Re-Animator",
-	info: "<img src='assets/images/reanimator.jpg'>"
-};
-
-var tagSeven = {
-	question: "Be afraid. Be very afraid.",
-	choice1: "Evil Dead",
-	choice2: "The Blob",
-	choice3: "The Fly",
-	choice4: "Don't Look Now",
-	answer: "The Fly",
-	info: "<img src='assets/images/thefly.jpg'>"
-};
-
-var tagEight = {
-	question: "Who will survive and what will be left of them?",
-	choice1: "The Texas Chain Saw Massacre",
-	choice2: "A Nightmare on Elm Street",
-	choice3: "The Descent",
-	choice4: "Saw",
-	answer: "The Texas Chain Saw Massacre",
-	info: "<img src='assets/images/chainsaw.jpg'>"
-};
-
-var tagNine = {
-	question: "They're here.",
-	choice1: "The Strangers",
-	choice2: "The Conjuring",
-	choice3: "Poltergeist",
-	choice4: "You're Next",
-	answer: "Poltergeist",
-	info: "<img src='assets/images/poltergeist.jpg'>"
-};
-
-var tagTen = {
-	question: "...and remember, the next scream you hear may be your own!",
-	choice1: "Scream",
-	choice2: "The Invisible Man",
-	choice3: "Witchfinder General",
-	choice4: "The Birds",
-	answer: "The Birds",
-	info: "<img src='assets/images/birds.jpg'>"
-};
-
 // ========= Quote Questions ============
 var quoteOne = {
 	question: '"Listen to them. Children of the night. What music they make!"',
@@ -150,57 +90,6 @@ var quoteFive = {
 	answer: "Misery",
 	info: "<img src='assets/images/gifs/misery.gif'>"
 };
-
-var quoteSix = {
-	question: '"Good. Bad. I&#8217m the guy with the gun."',
-	choice1: "Dawn of the Dead",
-	choice2: "Army of Darkness",
-	choice3: "April Fools&#8217 Day",
-	choice4: "My Bloody Valentine",
-	answer: "Army of Darkness",
-	info: "<img src='assets/images/gifs/ash.gif'>"
-};
-
-var quoteSeven = {
-	question: '"A boy&#8217s best friend is his mother."',
-	choice1: "Psycho",
-	choice2: "The Devil's Rejects",
-	choice3: "House of 1000 Corpses",
-	choice4: "The Wolfman",
-	answer: "Psycho",
-	info: "<img src='assets/images/gifs/psycho.gif'>"
-};
-
-var quoteEight = {
-	question: '"They&#8217re coming to get you, Barbara!"',
-	choice1: "The Last Man on Earth",
-	choice2: "City of the Dead",
-	choice3: "Night of the Living Dead",
-	choice4: "Zombi",
-	answer: "Night of the Living Dead",
-	info: "<img src='assets/images/gifs/notld.gif'>"
-};
-
-var quoteNine = {
-	question: '"I have come here to chew bubblegum and kick ass... and I&#8217m all out of bubblegum."',
-	choice1: "Germlins",
-	choice2: "They Live",
-	choice3: "Night of the Demons",
-	choice4: "The Ward",
-	answer: "They Live",
-	info: "<img src='assets/images/gifs/theylive.gif'>"
-};
-
-var quoteTen = {
-	question: '"A census taker once tried to test me. I ate his liver with some fava beans and a nice chianti."',
-	choice1: "Jiro Dreams of Sushi",
-	choice2: "Red Dragon",
-	choice3: "Silence of the Lambs",
-	choice4: "Se7en",
-	answer: "Silence of the Lambs",
-	info: "<img src='assets/images/gifs/lector.gif'>"
-};
-
 
 
 // ========= Trivia Questions ===========
@@ -254,61 +143,12 @@ var horFive = {
 	info: "<img src='assets/images/gifs/draculalee.gif'>"
 };
 
-var horSix = {
-	question: "Vincent Price plays Prince Prospero in an adaptation of which Edgar Allan Poe short story?",
-	choice1: "The Masque of the Red Death",
-	choice2: "The Pit and the Pendulum",
-	choice3: "The Fall of the House of Usher",
-	choice4: "Ligeia",
-	answer: "The Masque of the Red Death",
-	info: "<img src='assets/images/gifs/reddeath.gif'>"
-};
-
-var horSeven = {
-	question: "Which of the following films was not directed by John Carpenter?",
-	choice1: "The Thing",
-	choice2: "They Live",
-	choice3: "Halloween",
-	choice4: "The Amityville Horror",
-	answer: "The Amityville Horror",
-	info: "<img src='assets/images/gifs/horror.jpg'>"
-};
-
-var horEight = {
-	question: "What's the name of the demon that possesses Regan in The Exorcist?",
-	choice1: "Enlil",
-	choice2: "Ugallu",
-	choice3: "Pazuzu",
-	choice4: "Lamashtu",
-	answer: "Pazuzu",
-	info: "<img src='assets/images/gifs/pazuzu.png'>"
-};
-
-var horNine = {
-	question: "Which of the following films was not adapted from a novel?",
-	choice1: "Rosemary's Baby",
-	choice2: "Invasion of the Body Snatchers",
-	choice3: "Psycho",
-	choice4: "Frankenstein",
-	answer: "Invasion of the Body Snatchers",
-	info: "<img src='assets/images/gifs/donald.gif'>"
-};
-
-var horTen = {
-	question: "What is the top grossing horror movie of all time?",
-	choice1: "Ghostbusters",
-	choice2: "The Exorcist",
-	choice3: "Jaws",
-	choice4: "The Sixth Sense",
-	answer: "The Sixth Sense",
-	info: "<img src='assets/images/gifs/six.gif'>"
-};
 
 
 // Creating arrays that will hold the questions for each category.
-var taglineQuestions = [tagOne, tagTwo, tagThree, tagFour, tagFive, tagSix, tagSeven, tagEight, tagNine, tagTen];
-var quoteQuestions = [quoteOne, quoteTwo, quoteThree, quoteFour, quoteFive, quoteSix, quoteSeven, quoteEight, quoteNine, quoteTen];
-var triviaQuestions = [horOne, horTwo, horThree, horFour, horFive, horSix, horSeven, horEight, horNine, horTen];
+var taglineQuestions = [tagOne, tagTwo, tagThree, tagFour, tagFive];
+var quoteQuestions = [quoteOne, quoteTwo, quoteThree, quoteFour, quoteFive];
+var triviaQuestions = [horOne, horTwo, horThree, horFour, horFive];
 
 // The empty array that will be populated when the user selects a category.
 var questions = [];
