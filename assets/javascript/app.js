@@ -146,7 +146,7 @@ var horFive = {
 
 
 // Creating arrays that will hold the questions for each category.
-var taglineQuestions = [tagOne, tagTwo, tagThree, tagFour, tagFive];
+var taglineQuestions = [tagOne, tagTwo, tagThree, tagFour];
 var quoteQuestions = [quoteOne, quoteTwo, quoteThree, quoteFour, quoteFive];
 var triviaQuestions = [horOne, horTwo, horThree, horFour, horFive];
 
